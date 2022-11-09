@@ -96,44 +96,6 @@ python manage.py runserver
 
 
 
-# Some Snapshots:
-
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (412).png"  height = "400"/> </p>
-
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (413).png"  height = "400"/> </p>
-
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (414).png"  height = "400"/> </p>
-
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (415).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (416).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (417).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (418).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (419).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (420).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (421).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (422).png"  height = "400"/> </p>
-<img  src="staticfiles/Screenshot (423).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (424).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (425).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (426).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (427).png"  height = "400"/> </p>
-<p  align="center"  >
-<img  src="staticfiles/Screenshot (428).png"  height = "400"/> </p>
 
 
 ## Authors
